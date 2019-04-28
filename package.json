@@ -14,7 +14,7 @@
   "devDependencies": {
     "@researchgate/babel-preset-rg": "^1.0.1",
     "@researchgate/eslint-config-rg-react": "^5.0.0",
-    "@storybook/addon-options": "^3.2.16",
+    "@storybook/addon-options": "^5.0.11",
     "@storybook/react": "^3.2.16",
     "@types/react": "^16.8.14",
     "babel-cli": "^6.24.1",
